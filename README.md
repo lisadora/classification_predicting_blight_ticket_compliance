@@ -1,4 +1,4 @@
-# Classification - Predicting if a blight-ticket will be paid on time
+# Predicting if a blight-ticket will be paid on time
 
 The City of Detroit has a big issue with blight violations and unpaid blight-tickets. I build a model to predict, whether a given blight ticket will be paid on time. 
 
